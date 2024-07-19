@@ -1,4 +1,4 @@
-# Java: creating a API REST with Spring Boot
+# Java: creating an API REST with Spring Boot
 
 This project was developed during a formation provided by Alura about Java Web with Spring Boot
 
